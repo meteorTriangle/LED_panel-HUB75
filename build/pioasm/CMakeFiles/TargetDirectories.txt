@@ -1,3 +1,0 @@
-M:/LED_panel-HUB75/build/pioasm/CMakeFiles/pioasm.dir
-M:/LED_panel-HUB75/build/pioasm/CMakeFiles/edit_cache.dir
-M:/LED_panel-HUB75/build/pioasm/CMakeFiles/rebuild_cache.dir
